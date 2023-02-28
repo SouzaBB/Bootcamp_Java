@@ -1,0 +1,9 @@
+Resumo de Git e Github
+
+- Criar o repositório no Github
+- Clonar o repositório na máquina local com git clone
+- iniciar o repositório com git init
+- checar o status com git status
+- adicionar os arquivos modificados ao commit com git add
+- realizar o commit com git commit -m <commit_message>
+- envir ao github com git push
