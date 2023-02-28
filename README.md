@@ -1,1 +1,5 @@
-Essa pasta conterá todos os desafios do Bootcamp JAVA Dio-Banco Pan
+# Bootcamp_Java
+Repositório do bootcamp Java Dio-Banco Pan
+
+Nesse repositório estarão as <strong>aulas</strong> e <strong>desafios</strong> do bootcamp Java da DIO em parceria com o Banco PAN.
+Cada tópico de aula estará em uma pasta diferente. Os desafios conterão pastas individuais e estarão dentro da pasta <strong>desafios</strong>

@@ -1,9 +1,0 @@
-## RESUMO GIT E GITHUB ##
-
-Após criado o repositório no Github, os comandos básicos são:
-
-git init -> inicia o repositório na sua máquina local
-git clone -> baixa os arquivos do repositório para sua máquina
-git add -> adiciona os arquivos adicionados e/ou alterados para o commit
-git commit -> com a flag -m, realizar o comit junto a uma mensagem
-git push -> envia os arquivos para o github
