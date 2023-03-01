@@ -1,0 +1,8 @@
+- Todo arquivo .java deve se iniciar com Letra maiúscula. 
+Se for nome composto, o segundo nome também deve iniciar em letras maiúsculas. Exemplo: MinhaClasse
+
+- O nome do arquivo deve ser igual ao nome da Classe
+
+- Nome de variável - toda variável deve ser em letra minúscula. Se for palavra composta, a partir da segunda, 
+deve se iniciar em letra maiúscula. Exemplo: ano, anoFrabricação
+
