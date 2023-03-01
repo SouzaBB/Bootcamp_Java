@@ -24,7 +24,7 @@ public class MinhaClasse {
     System.out.println(nomeCompleto);    
   }
 
-public static String nomeCompleto (String primeiroNome, String segundoNome, String terceiroNome) {
-  return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome).concat(" ").concat(terceiroNome);
-}
+  public static String nomeCompleto (String primeiroNome, String segundoNome, String terceiroNome) {
+    return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome).concat(" ").concat(terceiroNome);
+  }
 }
