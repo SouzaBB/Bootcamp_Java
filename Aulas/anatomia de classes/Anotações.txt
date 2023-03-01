@@ -6,3 +6,19 @@ Se for nome composto, o segundo nome também deve iniciar em letras maiúsculas.
 - Nome de variável - toda variável deve ser em letra minúscula. Se for palavra composta, a partir da segunda, 
 deve se iniciar em letra maiúscula. Exemplo: ano, anoFrabricação
 
+ - Estrutura básica inicial:
+
+ /* 
+// Toda classe começa como public class NomeDaClasse
+public class NomeDaClasse {
+  // void apenas para executar
+  public static void main (String [] args) {
+    
+    System.out.println ("Olá mundo!");
+    
+  }
+
+}
+ */
+
+ - Identação não é obrigatória como em Python. Mas, é uma boa prática para deixar o código legível.

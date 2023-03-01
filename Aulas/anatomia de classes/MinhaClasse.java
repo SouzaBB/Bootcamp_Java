@@ -1,16 +1,3 @@
-/* Estrutura inicial 
-// Toda classe começa como public class NomeDaClasse
-public class MinhaClasse {
-  // void apenas para executar
-  public static void main (String [] args) {
-    
-    System.out.print ("Olá mundo!");
-    
-  }
-
-}
- */
-
 public class MinhaClasse {
 
   public static void main (String [] args) {
