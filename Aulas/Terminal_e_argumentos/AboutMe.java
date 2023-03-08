@@ -1,5 +1,3 @@
-package Bootcamp_Java.Aulas.Terminal_e_argumentos;
-
 public class AboutMe {
   
   public static void main(String [] args) {
